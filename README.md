@@ -54,7 +54,7 @@
 
 To get a local copy of the repository please run the following commands on your terminal:
 
-- $ cd <folder>
+- $ cd FolderName
 
 - $ git clone https://github.com/milano-patel/natour-landing-page.git
 
