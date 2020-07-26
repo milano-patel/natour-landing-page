@@ -1,0 +1,71 @@
+# Natour Landing Page
+
+> Natour is a fictional company designed basically for learning purpose.
+> It's a follow along course taught by Jonas Schmedtmann where advanced CSS concepts are demonstrated in detail.
+> In this course, I have learnt a lots techniques which I am very proud of, example of which includes:
+
+- Installing node-sass module, and npm package
+- How to setup package.json and write script to automatically compile scss file to css file
+- BEM CSS pattern for easy selector nesting in scss file
+- CSS variables
+- Proper organization of sass files using partials
+- How to architect and build a simple grid system;
+- How the attribute selector works;
+- How the :not pseudo-class works;
+- How calc() works, and what's the difference between calc() and simple Sass operations
+- Coded our own grid system
+- How to use the background-clip property
+- Transforming multiple properties simultaneously;
+- How to use the outline-offset property together with outline
+- Styling elements that are NOT hovered while others are.
+- How to use perspective in CSS
+- How to use the backface-visibility property
+- Using background blend modes
+- How and when to use box-decoration-break;
+- How to make text flow around shapes with `shape-outside` and `float`
+- How to apply a filter to images
+- How to create a background video covering an entire section;
+- How to use the `<video>` HTML element
+- How and when to use the `object-fit` property
+- How to implement "solid-color gradients"
+- How the general and adjacent sibling selectors work and why it's needed
+- How to use the `::input-placeholder` pseudo-element
+- How and when to use the `:focus, :invalid, placeholder-shown` and `:checked` pseudo-classes
+- Techniques to build custom radio buttons.
+- Implemented a "checkbox hack"
+- Created custom animation timing functions using cubic bezier curves;
+- How to animate "solid-color gradients"
+- How and why to use `transform-origin`
+- How to use the `srcset` attribute on the `<img>` and `<source>` elements, together with density descriptors;
+- How and why to use the `<picture>` element for art direction;
+- How to write media queries in HTML
+- Working with responsive images: serve the _right image_ to the _right screen size_ and device, in order to avoid downloading unnecessary large images on smaller screens.
+
+
+## Built With
+
+- HTML5
+- CSS3
+- Google fonts
+- SASS
+
+
+## Getting Started
+
+To get a local copy of the repository please run the following commands on your terminal:
+
+- $ cd <folder>
+
+- $ git clone https://github.com/milano-patel/natour-landing-page.git
+
+- $ npm install
+
+- $ npm run watch:sass
+
+
+The last command compiles the sass file and update's style.css when you hit save button
+
+
+## Credit
+
+- Advanced CSS and Sass: Flexbox, Grid, Animations and More! by Jonas Schmedtmann See course [link in Udemy](https://www.udemy.com/course/advanced-css-and-sass/)
