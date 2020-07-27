@@ -1,5 +1,7 @@
 # Natour Landing Page
 
+> Live Preview: https://milano-patel.github.io/natour-landing-page/
+
 > Natour is a fictional company designed basically for learning purpose.
 > It's a follow along course taught by Jonas Schmedtmann where advanced CSS concepts are demonstrated in detail.
 > In this course, I have learnt a lots techniques which I am very proud of, example of which includes:
@@ -54,7 +56,7 @@
 
 To get a local copy of the repository please run the following commands on your terminal:
 
-- $ cd <folder>
+- $ cd FolderName
 
 - $ git clone https://github.com/milano-patel/natour-landing-page.git
 
